@@ -1,4 +1,3 @@
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:nextsolutions/providers/counter_provider.dart';
@@ -37,7 +36,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: backgroundColor,
       appBar: AppBar(
         title: Text(
-          'Home: Coding Questions',
+          'Coding Questions',
           style: TextStyle(color: Colors.white),
         ),
         centerTitle: true,
@@ -207,7 +206,8 @@ class _HomePageState extends State<HomePage> {
                           setState(() {
                             isDark != isDark;
                           });
-                          themeProvider.changeTheme(); // Toggle the theme
+                          Provider.of<ThemeProvider>(context, listen: false)
+                              .changeTheme();
                         },
                       ),
                     ],

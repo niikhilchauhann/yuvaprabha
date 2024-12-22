@@ -54,8 +54,6 @@ class BuildTextField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     bool isDark = context.watch<ThemeProvider>().isDarkTheme;
-    Color backgroundColor = isDark ? Color(0xff121212) : Colors.white;
-
     Color text = !isDark ? Color(0xFF262626) : const Color(0xE0FFFFFF);
     return TextFormField(
       onChanged: (value) {
