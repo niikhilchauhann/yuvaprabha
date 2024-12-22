@@ -110,8 +110,8 @@ class _HomePageState extends State<HomePage> {
                   borderRadius: BorderRadius.circular(16),
                   child: AspectRatio(
                     aspectRatio: 2,
-                    child: Image.network(
-                        'https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-image_large.png?v=1530129081',
+                    child: Image.asset(
+                        'assets/placeholder.jpg',
                         fit: BoxFit.cover),
                   ),
                 ),
@@ -147,7 +147,7 @@ class _HomePageState extends State<HomePage> {
               itemBuilder: (context, index) {
                 return Container(
                   margin: EdgeInsets.all(8),
-                  color: Colors.primaries[index % Colors.primaries.length],
+                  color: Colors.primaries[(isDark?index:(index*6)) % Colors.primaries.length],
                 );
               },
             ),
