@@ -23,7 +23,7 @@ Below are the images showcasing the UI/UX design of Yuvaprabha:
 
 ## Installation
 
-Install the Yuvaprabha App by click on this 🔗link : [Download Gdrive](https://drive.google.com/file/d/1nmtlj-N3vSTKgK_XWdHStKRgnno7Ua-d/view?usp=drivesdk) or [GitHub Download](https://objects.githubusercontent.com/github-production-release-asset-2e65be/914832341/f8efe943-159c-4d78-b7d3-4fa1705fe47c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250110T132217Z&X-Amz-Expires=300&X-Amz-Signature=d4653302bbe1abb68d3af6d0736ffacf32713971247f8a6a51de5e9751f9b564&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dapp-release.apk&response-content-type=application%2Fvnd.android.package-archive) and Download it and Install it in your 📱device.
+Install the Yuvaprabha App by click on this 🔗link : [Download Gdrive](https://drive.google.com/file/d/1nmtlj-N3vSTKgK_XWdHStKRgnno7Ua-d/view?usp=drivesdk) or [GitHub Download](https://github.com/niikhilchauhann/yuvaprabha/releases/tag/Production) and Download it and Install it in your 📱device.
 
 ## Feature
 
