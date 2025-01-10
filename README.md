@@ -12,7 +12,7 @@ YuvaPrabha is an innovative app designed to empower students and learners. It of
 
 ## UI/UX Design
 Below are the images showcasing the UI/UX design of Yuvaprabha:
-<table>
+<table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/8e2d879c-b111-41d3-b092-b8c8de5b8001" alt="UI Screenshot 1" width="220"/></td>
     <td><img src="https://github.com/user-attachments/assets/c18a7e21-749e-4ccd-8244-3894f68af124" alt="UI Screenshot 2" width="220"/></td>
