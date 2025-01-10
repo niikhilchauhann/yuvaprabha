@@ -2,7 +2,7 @@
 
 - 🔭 We are currently working on *YuvaPrabha*
 - 🌱 We are currently learning *Machine Learning*
-- 📫 How to reach us *edencorporation@gmail.com*
+- 📫 How to reach us *isedenlive@gmail.com*
 
 
 # YuvaPrabha
@@ -12,13 +12,13 @@ YuvaPrabha is an innovative app designed to empower students and learners. It of
 
 ## UI/UX Design
 Below are the images showcasing the UI/UX design of Yuvaprabha:
-
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/image1" alt="UI Screenshot 1" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/image2" alt="UI Screenshot 2" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/image3" alt="UI Screenshot 3" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/image4" alt="UI Screenshot 4" width="200"/></td>
+
+    <td><img src="https://github.com/user-attachments/assets/8e2d879c-b111-41d3-b092-b8c8de5b8001" alt="UI Screenshot 1" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c18a7e21-749e-4ccd-8244-3894f68af124" alt="UI Screenshot 2" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/826bffb6-e1f4-44c3-92c0-a094607a8619" alt="UI Screenshot 3" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/93365a38-65d4-4437-8143-7665de19d5ef" alt="UI Screenshot 4" width="200"/></td>
   </tr>
 </table>
 
@@ -64,5 +64,5 @@ Install the Yuvaprabha App by click on this 🔗link : (Link) and Download it an
 <p align="left">
 <a href="https://twitter.com/niikhilchauhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niikhilchauhann" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niikhilchauhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niikhilchauhann" height="30" width="40" /></a>
-<a href="https://instagram.com/theft.niikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theft.niikhil" height="30" width="40" /></a>
+<a href="https://instagram.com/thef.niikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theft.niikhil" height="30" width="40" /></a>
 </p>
