@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594130214858",
+    "project_id": "yuvaprabha",
+    "storage_bucket": "yuvaprabha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594130214858:android:d3ddca13e1796985d1f933",
+        "android_client_info": {
+          "package_name": "com.edencorp.yuvaprabha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWs3z2fzkhMharxIXxNMNSHhrHJS0Qkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
