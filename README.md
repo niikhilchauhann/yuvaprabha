@@ -1,4 +1,4 @@
-## Hii 👋 We are Nikhil Chauhan and Vansh Sharma
+## Hii 👋 We are team Access Denied 
 
 - 🔭 We are currently working on _YuvaPrabha_
 - 🌱 We are currently learning _Machine Learning_
@@ -23,7 +23,7 @@ Below are the images showcasing the UI/UX design of Yuvaprabha:
 
 ## Installation
 
-Install the Yuvaprabha App by click on this 🔗link : (Link) and Download it and Install it in your 📱device.
+Install the Yuvaprabha App by click on this 🔗link : [GitHub Download](https://github.com/niikhilchauhann/yuvaprabha/releases/tag/Production2.0) and Download it and Install it in your 📱device.
 
 ## Feature
 
